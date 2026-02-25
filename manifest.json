@@ -1,0 +1,9 @@
+{
+  "id": "legal-format",
+  "name": "Legal Format",
+  "version": "1.0.0",
+  "minAppVersion": "0.15.0",
+  "description": "한국 법률 조문을 Obsidian 마크다운으로 포맷합니다.",
+  "author": "juanlee",
+  "isDesktopOnly": false
+}

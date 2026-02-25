@@ -1,0 +1,22 @@
+# Build output
+main.js
+*.js.map
+
+# npm
+node_modules/
+package-lock.json
+
+# Obsidian
+data.json
+
+# IDE
+.idea/
+*.code-workspace
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+npm-debug.log*
